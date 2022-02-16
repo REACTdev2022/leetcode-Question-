@@ -50,6 +50,8 @@ Optimal (Hash Map)
 ```
 SOLUTION:2->
 BINARY SEARCH
+
+
 ```
 import java.util.Arrays;
 public class SortSearchSolution {
